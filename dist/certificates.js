@@ -1,0 +1,200 @@
+export const certificates = [
+  {
+    "id": 1,
+    "title": "Networking Basics",
+    "category": "Cisco",
+    "date": "2026-09-05",
+    "issuer": "Cisco Networking Academy",
+    "type": "Course completion certificate",
+    "file": "assets/cert-1.pdf",
+    "preview": "assets/cert-1-preview.webp",
+    "original": "https://drive.google.com/file/d/1zbtanDeQf53du_JuZQodtBxhaMkjsYig/view"
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with Cisco Packet Tracer",
+    "category": "Cisco",
+    "date": "2026-09-07",
+    "issuer": "Cisco Networking Academy",
+    "type": "Course completion certificate",
+    "file": "assets/cert-2.pdf",
+    "preview": "assets/cert-2-preview.webp",
+    "original": "https://drive.google.com/file/d/1Vr6_h2dfdxm1XYkrd6QRB4hbo7OGBa8V/view"
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Computer Systems Servicing",
+    "category": "TESDA CSS",
+    "date": "2026-09-06",
+    "issuer": "TESDA Online Program",
+    "type": "Course completion certificate",
+    "file": "assets/cert-3.pdf",
+    "preview": "assets/cert-3-preview.webp",
+    "original": "https://drive.google.com/file/d/1wclOm9ZA2uWK8IbRxyyiwLe4XlDmWZp1/view"
+  },
+  {
+    "id": 4,
+    "title": "Installing and Configuring Computer Systems",
+    "category": "TESDA CSS",
+    "date": "2026-10-18",
+    "issuer": "TESDA Online Program",
+    "type": "Course completion certificate",
+    "file": "assets/cert-4.pdf",
+    "preview": "assets/cert-4-preview.webp",
+    "original": "https://drive.google.com/file/d/1sv217zL86HLhXBuvb1gKF1fhUZ_3HQzg/view"
+  },
+  {
+    "id": 5,
+    "title": "Maintaining Computer Systems and Networks",
+    "category": "TESDA CSS",
+    "date": "2026-10-19",
+    "issuer": "TESDA Online Program",
+    "type": "Course completion certificate",
+    "file": "assets/cert-5.pdf",
+    "preview": "assets/cert-5-preview.webp",
+    "original": "https://drive.google.com/file/d/1wUpO5Vlt9uh8RS2xTkhaazqN1uBxcRfF/view"
+  },
+  {
+    "id": 6,
+    "title": "Setting Up Computer Networks",
+    "category": "TESDA CSS",
+    "date": "2026-10-19",
+    "issuer": "TESDA Online Program",
+    "type": "Course completion certificate",
+    "file": "assets/cert-6.pdf",
+    "preview": "assets/cert-6-preview.webp",
+    "original": "https://drive.google.com/file/d/12Bf224TzZfqbJasZZ0ElJOpRmiE0g2T2/view"
+  },
+  {
+    "id": 7,
+    "title": "Setting Up Computer Servers",
+    "category": "TESDA CSS",
+    "date": "2026-10-20",
+    "issuer": "TESDA Online Program",
+    "type": "Course completion certificate",
+    "file": "assets/cert-7.pdf",
+    "preview": "assets/cert-7-preview.webp",
+    "original": "https://drive.google.com/file/d/1BOJBEdWK-d6-S7Tl_mG1ykMH4emcTNbX/view"
+  },
+  {
+    "id": 8,
+    "title": "Describe the Core Architectural Components of Azure",
+    "category": "Microsoft",
+    "date": "2026-09-07",
+    "issuer": "Microsoft Learn",
+    "type": "Microsoft Learn achievement",
+    "file": "assets/cert-8.pdf",
+    "preview": "assets/cert-8-preview.webp",
+    "original": "https://drive.google.com/file/d/13L5zGglQ8iJpQYT2PKwX73Vfy_uWSukS/view"
+  },
+  {
+    "id": 9,
+    "title": "Describe Security and Compliance Concepts",
+    "category": "Microsoft",
+    "date": "2026-09-07",
+    "issuer": "Microsoft Learn",
+    "type": "Microsoft Learn achievement",
+    "file": "assets/cert-9.pdf",
+    "preview": "assets/cert-9-preview.webp",
+    "original": "https://drive.google.com/file/d/1Fp2f9Mi3iAxKEXmgMHhrSrP8fJuxrhR3/view"
+  },
+  {
+    "id": 10,
+    "title": "Explore Core Data Concepts",
+    "category": "Microsoft",
+    "date": "2026-09-07",
+    "issuer": "Microsoft Learn",
+    "type": "Microsoft Learn achievement",
+    "file": "assets/cert-10.pdf",
+    "preview": "assets/cert-10-preview.webp",
+    "original": "https://drive.google.com/file/d/1PvJ5Yro8lsf-TOCzk7m2i9nk88J7q-5D/view"
+  },
+  {
+    "id": 11,
+    "title": "Describe the Business Value of Microsoft Power Platform",
+    "category": "Microsoft",
+    "date": "2026-09-07",
+    "issuer": "Microsoft Learn",
+    "type": "Microsoft Learn achievement",
+    "file": "assets/cert-11.pdf",
+    "preview": "assets/cert-11-preview.webp",
+    "original": "https://drive.google.com/file/d/18KysXD5bpC8rNnMxtFmD_DPEYqoDBsiA/view"
+  },
+  {
+    "id": 12,
+    "title": "Programming Fundamentals",
+    "category": "Seminars",
+    "date": "2026-08-27",
+    "issuer": "Northeastern College, 10th I.T. Week",
+    "type": "Certificate of participation",
+    "file": "assets/cert-12.jpg",
+    "preview": "assets/cert-12-preview.webp",
+    "original": "https://drive.google.com/file/d/1a3RR5diGgi-gXCPd_C6JM8ZAL5Kwa8-e/view"
+  },
+  {
+    "id": 13,
+    "title": "Video Editing Tips & Tricks",
+    "category": "Seminars",
+    "date": "2026-08-27",
+    "issuer": "Northeastern College, 10th I.T. Week",
+    "type": "Certificate of participation",
+    "file": "assets/cert-13.jpg",
+    "preview": "assets/cert-13-preview.webp",
+    "original": "https://drive.google.com/file/d/1QIprdfkcL8HBjpdoSL9sJTBsx2UCxO8k/view"
+  },
+  {
+    "id": 14,
+    "title": "Integrating IoT in Capstone Project",
+    "category": "Seminars",
+    "date": "2026-08-27",
+    "issuer": "Northeastern College, 10th I.T. Week",
+    "type": "Certificate of participation",
+    "file": "assets/cert-14.jpg",
+    "preview": "assets/cert-14-preview.webp",
+    "original": "https://drive.google.com/file/d/1IkXedADjKkHr_xB59WRoOutrnjrEb9Ee/view"
+  },
+  {
+    "id": 15,
+    "title": "Agentic AI",
+    "category": "Seminars",
+    "date": "2026-08-27",
+    "issuer": "Northeastern College, 10th I.T. Week",
+    "type": "Certificate of participation",
+    "file": "assets/cert-15.jpg",
+    "preview": "assets/cert-15-preview.webp",
+    "original": "https://drive.google.com/file/d/18IJuu_lx7KVubClMx_E2VOE55zDem5ta/view"
+  },
+  {
+    "id": 16,
+    "title": "i4Rizal Episode 1: Pro Ads & Precision Reach: Mastering AI Design and Targeting",
+    "category": "Webinars",
+    "date": "2026-07-08",
+    "issuer": "DOST Rizal",
+    "type": "Certificate of participation",
+    "file": "assets/cert-16.pdf",
+    "preview": "assets/cert-16-preview.webp",
+    "original": "https://drive.google.com/file/d/1ojdi_ue7bshO-lD5Cf4kirIy3OarSyID/view"
+  },
+  {
+    "id": 17,
+    "title": "Tech It to the Next Level: Careers in Emerging Technologies",
+    "category": "Webinars",
+    "date": "2026-07-09",
+    "issuer": "DICT Palawan",
+    "type": "Certificate of participation (2 training hours)",
+    "file": "assets/cert-17.pdf",
+    "preview": "assets/cert-17-preview.webp",
+    "original": "https://drive.google.com/file/d/1g1dWW2Kb_3NS7veFEdHk85OQLSOxjvfw/view"
+  },
+  {
+    "id": 18,
+    "title": "DICT CSB Region 10 Awareness",
+    "category": "Webinars",
+    "date": "2026-10-20",
+    "issuer": "DICT CSB Region 10",
+    "type": "Certificate pending · Evaluation receipt dated 20 Oct 2026",
+    "status": "pending",
+    "file": "assets/webinar-18-evaluation.png",
+    "preview": "assets/webinar-18-evaluation.png"
+  }
+];
